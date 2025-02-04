@@ -44,7 +44,7 @@ The dataset contains **100,000 customer records** with:
 ## **How to Use This Project**
 
 1. Run `clv_prediction.ipynb` to **train and test the model**.
-2. Explore the **CLV analysis report** (`reports/clv_analysis.pdf`).
-3. Use `presentation.pptx` for business discussions.
+2. Explore the **CLV analysis report** (`CLV Analysis.pdf`).
+3. Use `CLV Prediction Features Presentation.pptx` for business discussions.
 
 ---
